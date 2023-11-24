@@ -1,4 +1,2 @@
 
-
-https://github.com/H3EXX/CRTP_Notes/assets/111686217/9a77935d-7ae7-4de8-88e2-44d845dab417
-
+![ezgif com-optimize](https://github.com/H3EXX/CRTP_Notes/assets/111686217/0960d8c5-e3ed-4bda-b37b-318b0f772f52)
