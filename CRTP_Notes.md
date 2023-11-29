@@ -1,5 +1,4 @@
 
-![[Pasted image 20230721201051.png]]
 # Domain Enumeration:
 [User,computer,Domain Admin, Enterprise Admin, OU, GPO, ACLs, Forest, Trusts]
 ### Objective 1:
